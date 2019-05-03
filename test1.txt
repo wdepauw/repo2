@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is 9C54-451D
+
+ Directory of C:\Users\pauwwim\Documents\git
+
+03-05-2019  16:16    <DIR>          .
+03-05-2019  16:16    <DIR>          ..
+03-05-2019  16:16                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  198.014.726.144 bytes free
